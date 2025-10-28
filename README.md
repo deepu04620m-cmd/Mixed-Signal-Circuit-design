@@ -1,4 +1,4 @@
-# Mixed-Signal-Circuit-design
+# Mixed Signal Circuit design
 Design and Stability Analysis of a Two-Stage CMOS Operational Amplifier
 
 ## Overview of Two-Stage Operational Amplifier

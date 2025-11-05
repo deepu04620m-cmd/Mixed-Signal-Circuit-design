@@ -11,7 +11,7 @@ The second stage is a common-source amplifier that further amplifies the signal 
 Overall, the two-stage op-amp design achieves a balance between high gain, reasonable bandwidth, and stable operation, making it widely used in data converters, filters, and low-power analog systems.
 
 ## Design Steps
-![dc](https://github.com/user-attachments/assets/c9e82f14-6352-4018-aafb-176b26e2b6fa)
+![WhatsApp Image 2025-11-05 at 13 13 42_f2eb1fa1](https://github.com/user-attachments/assets/e938293e-87fb-4954-9605-efe7c79f1867)
 ![2](https://github.com/user-attachments/assets/58903dd0-dc23-4759-bb8e-803492562109)
 ![3](https://github.com/user-attachments/assets/cab2a937-662c-4cdd-ad05-7947f41dc518)
 

@@ -45,5 +45,9 @@ Overall, the two-stage op-amp design achieves a balance between high gain, reaso
 ## DC Analysis
 <img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-12-39" src="https://github.com/user-attachments/assets/64372b66-e565-4165-ba28-73165bf44795" />
 
+## Reference
+[1] R. Saidulu, B. P. Chandar, and K. Ravi Kumar, “Design and Simulation of a High Gain Two-Stage Op-Amp Realised in 90 nm CMOS Process,” Journal of Emerging Technologies and Innovative Research (JETIR), vol. 10, no. 5, pp. d47–d54, May 2023.
 
+Some papers and books 
+https://drive.google.com/drive/folders/1DwQK6ToqPoA2O_kQzzZrTLDcux04AhlF
 

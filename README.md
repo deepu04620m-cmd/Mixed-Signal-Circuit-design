@@ -16,7 +16,8 @@ Overall, the two-stage op-amp design achieves a balance between high gain, reaso
 ![3](https://github.com/user-attachments/assets/cab2a937-662c-4cdd-ad05-7947f41dc518)
 
 ## Schematic
-<img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-35" src="https://github.com/user-attachments/assets/52e9bf0f-3387-48fb-ae9f-5aa596c4443a" />
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-13-43" src="https://github.com/user-attachments/assets/148ffb0a-f0ea-40dd-ae65-2dedb527f155" />
+
 
 ## Symbol
 <img width="1920" height="1080" alt="Screenshot from 2025-11-05 12-49-56" src="https://github.com/user-attachments/assets/dc6d5749-3454-4160-baef-20e012b4af66" />
@@ -27,15 +28,19 @@ Overall, the two-stage op-amp design achieves a balance between high gain, reaso
 # Results
 
 ## Transient Analysis
-![trans](https://github.com/user-attachments/assets/07875690-3c83-46cd-ae96-ab37b203b5eb)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 15-38-04" src="https://github.com/user-attachments/assets/a59254aa-3777-4f4d-9c47-fa80bddb8247" />
+
 
 ## AC Analysis
-![ac](https://github.com/user-attachments/assets/aadb60ac-c157-4bb8-ac18-713ccf612ba3)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-12-13" src="https://github.com/user-attachments/assets/aff55d2c-017c-4924-aadb-f1cc388923d0" />
+
 
 ## Bode Plot
-![bode](https://github.com/user-attachments/assets/7e22e688-ba81-420e-982b-8bf60dc23121)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 13-36-05" src="https://github.com/user-attachments/assets/ab36e0e8-b6dd-4795-8073-b37bba496821" />
+
 
 ## DC Analysis
-![dc](https://github.com/user-attachments/assets/92b630a5-2832-42c0-9271-0eccb6570c25)
+<img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-12-39" src="https://github.com/user-attachments/assets/64372b66-e565-4165-ba28-73165bf44795" />
+
 
 

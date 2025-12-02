@@ -15,7 +15,8 @@ Overall, the two-stage op-amp design achieves a balance between high gain, reaso
 ## Design Steps
 ![WhatsApp Image 2025-11-05 at 13 13 42_f2eb1fa1](https://github.com/user-attachments/assets/e938293e-87fb-4954-9605-efe7c79f1867)
 ![2](https://github.com/user-attachments/assets/58903dd0-dc23-4759-bb8e-803492562109)
-![3](https://github.com/user-attachments/assets/cab2a937-662c-4cdd-ad05-7947f41dc518)
+![WhatsApp Image 2025-12-02 at 23 57 23_7d59f191](https://github.com/user-attachments/assets/35f271ae-2e4d-4df9-ac23-9b503ef8f5e5)
+
 
 ## Schematic
 <img width="1920" height="1080" alt="Screenshot from 2025-12-02 14-13-43" src="https://github.com/user-attachments/assets/148ffb0a-f0ea-40dd-ae65-2dedb527f155" />

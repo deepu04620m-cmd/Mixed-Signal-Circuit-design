@@ -2,6 +2,8 @@
 Design and Stability Analysis of a Two-Stage CMOS Operational Amplifier
 
 ## Overview of Two-Stage Operational Amplifier
+<img width="675" height="462" alt="image" src="https://github.com/user-attachments/assets/83e7b45c-bb9f-44ef-941f-586095af139b" />
+
 A two-stage operational amplifier is designed to provide both high voltage gain and a large output swing, which are essential in many analog and mixed signal circuits. It consists of two main amplification stages.
 
 The first stage is a differential amplifier that converts the input voltage difference into a current. This stage offers high input impedance and provides the initial gain while rejecting common-mode signals.
